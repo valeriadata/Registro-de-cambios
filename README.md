@@ -19,5 +19,7 @@ inación de espacio en blanco (cosmética)
 ## Correcciones
 -Desajuste en la Columna “CostoTotal” corregido donde algunas filas no coincidían con las fechas correctas
 -Función SUM corregida para que se ejecute en toda la columna y no de forma parcial
+
+
 ¡Gracias!
 👋
