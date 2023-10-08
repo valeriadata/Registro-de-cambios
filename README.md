@@ -11,6 +11,7 @@ Versión 1.0.0 (10-08-2023) MM-DD-AAAA
 
 “
 Agregada por hacer un seguimiento del costo de cada elemento
+
 ## Cambios
 -Formato de fecha modificado a MM-DD-AAAA
 -Elim
