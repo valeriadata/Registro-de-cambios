@@ -21,5 +21,7 @@ inación de espacio en blanco (cosmética)
 -Función SUM corregida para que se ejecute en toda la columna y no de forma parcial
 
 
+
+
 ¡Gracias!
 👋
